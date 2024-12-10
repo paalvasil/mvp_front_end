@@ -1,0 +1,37 @@
+{
+    "beers": [
+        {
+            "id": 1,
+            "name": "Heineken",
+            "type": "Lager",
+            "ibu": 4,
+            "price": 8,
+            "note": 6           
+        },
+        {
+            "id": 2,
+            "name": "Corona",
+            "type": "Pilsen",
+            "ibu": 2,
+            "price": 9,
+            "note": 5           
+        },
+        {
+            "id": 3,
+            "name": "Brahma",
+            "type": "Pilsen",
+            "ibu": 2,
+            "price": 4,
+            "note": 3           
+        },
+        {
+            "id": 4,
+            "name": "Stella",
+            "type": "Pilsen",
+            "ibu": 2,
+            "price": 6,
+            "note": 4           
+        }
+
+    ]
+}
